@@ -26,6 +26,7 @@ html {
   height: 534px;
   flex-direction: row;
   align-items: flex-end;
+  
 }
 
 .search-form__fieldset-title {
